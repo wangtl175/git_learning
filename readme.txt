@@ -10,3 +10,4 @@ merge without fast forward
 debug
 test
 This is a bug,fix it
+This is from branch dev
