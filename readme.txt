@@ -5,3 +5,4 @@ change 1
 change 2
 This is from branch dev
 Update from master and feature1
+merge using fast forward
