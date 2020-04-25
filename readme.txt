@@ -7,3 +7,4 @@ This is from branch dev
 Update from master and feature1
 merge using fast forward
 merge without fast forward
+debug
