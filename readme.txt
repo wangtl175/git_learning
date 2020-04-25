@@ -9,4 +9,4 @@ merge using fast forward
 merge without fast forward
 debug
 test
-This is a bug
+This is a bug,fix it
